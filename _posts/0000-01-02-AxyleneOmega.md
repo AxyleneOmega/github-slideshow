@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello World
+_*Love* makes *Life* worth *Living*_
 Use the left arrow to go back!
